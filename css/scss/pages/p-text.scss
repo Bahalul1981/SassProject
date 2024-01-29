@@ -1,0 +1,4 @@
+.text-under-header {
+  font-size: large;
+  @include set-dynamic-colors($color_red);
+}
